@@ -1,4 +1,4 @@
-# Navegação pelo Mercado Livre
+# Navegação pelo Youtube
 
 Navegação completa pelo site do youtube usando python. Busca youtube no google, entra no site do youtube, busca pela música, acessa o vídeo, pula anúncio, fecha notificações e espera o vídeo acabar.
 
@@ -27,12 +27,12 @@ Instalar o selenium no terminal:
 Navegação:
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/148860633-e7e3b4b9-b14e-490f-bb4c-e7b43348c3ad.gif">
+      <img src="https://user-images.githubusercontent.com/85804895/150697450-ec786a05-4353-4a26-8b88-3847ff205e24.gif">
 </span>
 
 Terminal:
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/148860832-f5b424e7-356d-45f8-b29d-a57e9a5ece96.png">
+      <img src="https://user-images.githubusercontent.com/85804895/150697471-2e4ee190-e47b-4c85-85c6-81a87bff71e3.png">
 </span>
 
