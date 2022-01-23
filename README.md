@@ -23,3 +23,9 @@ No terminal instalar o selenium:
 ```
 
 # Resultado
+
+- Navegação:
+
+<span>
+      <img src="">
+</span>
